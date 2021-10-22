@@ -1,0 +1,107 @@
+PatientId,Age,Patient Gender,Patient Location (District),Symptoms,Pre-existing conditions,Scheduled Date
+2.99E+13,46,FEMALE,Mumbai,fever,diabetes,14/03/2021
+5.59E+14,26,MALE,Thane,cold,diabetes,14/03/2021
+4.26E+12,32,FEMALE,Mumbai,fever,none,15/03/2021
+8.68E+11,45,MALE,Raigad,cough,hypertension,14/02/2021
+8.84E+12,20,FEMALE,Thane,cold,hypotension,24/03/2021
+9.60E+13,23,MALE,Mumbai,fever,diabetes,24/04/2021
+7.34E+14,33,FEMALE,Raigad,cough,none,16/07/2021
+3.45E+12,42,MALE,navi mumbai,cold,hypertension,4/3/2021
+5.64E+13,55,FEMALE,navi mumbai,fever,hypotension,14/03/2021
+7.81E+13,43,MALE,Thane,cough,diabetes,15/03/2021
+7.35E+14,24,FEMALE,Mumbai,cold,none,14/02/2021
+7.54E+12,26,MALE,Raigad,fever,hypertension,24/03/2021
+5.67E+14,39,FEMALE,Raigad,cough,hypotension,24/04/2021
+9.11E+14,45,MALE,Thane,cold,diabetes,16/07/2021
+9.99E+13,42,FEMALE,Mumbai,fever,none,4/3/2021
+99948393975,60,MALE,navi mumbai,cough,hypertension,14/03/2021
+8.46E+13,71,MALE,Mumbai,cold,hypotension,15/03/2021
+1.48E+13,26,FEMALE,navi mumbai,fever,diabetes,14/02/2021
+1.71E+13,32,MALE,Mumbai,cough,none,24/03/2021
+7.22E+12,45,FEMALE,navi mumbai,cold,hypertension,24/04/2021
+6.22E+14,20,MALE,Thane,fever,hypotension,16/07/2021
+1.22E+13,23,FEMALE,Raigad,cough,diabetes,4/3/2021
+8.63E+14,33,MALE,Thane,cold,none,14/03/2021
+2.14E+14,11,FEMALE,Raigad,fever,hypertension,15/03/2021
+8.73E+12,55,MALE,Thane,cough,hypotension,14/02/2021
+5.82E+12,43,FEMALE,Raigad,cold,diabetes,24/03/2021
+25787851512,24,MALE,Mumbai,fever,none,24/04/2021
+1.22E+13,26,FEMALE,navi mumbai,cough,hypertension,16/07/2021
+5.93E+12,39,MALE,Thane,cold,hypotension,4/3/2021
+1.23E+12,45,FEMALE,Raigad,fever,diabetes,14/03/2021
+3.43E+11,42,MALE,Mumbai,cough,none,15/03/2021
+3.11E+11,60,FEMALE,Mumbai,cold,hypertension,14/02/2021
+5.29E+13,71,MALE,Mumbai,fever,hypotension,24/03/2021
+7.65E+12,26,FEMALE,navi mumbai,cough,diabetes,24/04/2021
+2.00E+13,32,MALE,navi mumbai,cold,none,16/07/2021
+7.82E+13,45,FEMALE,navi mumbai,fever,hypertension,4/3/2021
+7.30E+13,20,MALE,Thane,cough,hypotension,14/03/2021
+1.58E+12,23,FEMALE,Thane,cold,diabetes,15/03/2021
+5.87E+12,33,MALE,Thane,fever,none,14/02/2021
+1.46E+13,57,FEMALE,Thane,cough,hypertension,24/03/2021
+9.97E+14,55,MALE,navi mumbai,cold,hypotension,24/04/2021
+8.22E+14,43,FEMALE,Raigad,fever,diabetes,16/07/2021
+2.60E+13,24,MALE,Mumbai,cough,none,4/3/2021
+7.16E+13,26,FEMALE,Mumbai,cold,hypertension,14/03/2021
+2.74E+11,39,MALE,Mumbai,fever,hypotension,15/03/2021
+4.98E+12,45,FEMALE,navi mumbai,cough,diabetes,14/02/2021
+1.38E+11,42,MALE,navi mumbai,cold,none,24/03/2021
+5.89E+11,60,FEMALE,navi mumbai,fever,hypertension,24/04/2021
+8.55E+12,71,MALE,navi mumbai,cough,hypotension,16/07/2021
+9.22E+13,26,FEMALE,navi mumbai,cold,diabetes,4/3/2021
+1.83E+14,32,MALE,navi mumbai,fever,none,14/03/2021
+4.69E+13,45,FEMALE,navi mumbai,cough,hypertension,15/03/2021
+7.99E+14,20,MALE,Mumbai,cold,hypotension,14/02/2021
+4.44E+14,23,FEMALE,Mumbai,fever,diabetes,24/03/2021
+3.37E+12,33,MALE,Mumbai,cough,none,24/04/2021
+4.18E+13,56,FEMALE,Mumbai,cold,hypertension,16/07/2021
+4.75E+14,55,MALE,Thane,fever,hypotension,4/3/2021
+4.00E+12,43,FEMALE,Thane,cough,diabetes,14/03/2021
+44879439571,24,MALE,Thane,cold,none,15/03/2021
+7.18E+13,26,FEMALE,Raigad,fever,hypertension,14/02/2021
+9.29E+12,39,MALE,Mumbai,cough,hypotension,24/03/2021
+5.59E+11,45,FEMALE,Mumbai,cold,diabetes,24/04/2021
+3.65E+13,42,MALE,Mumbai,fever,none,16/07/2021
+2.37E+14,60,FEMALE,Mumbai,cough,hypertension,4/3/2021
+1.89E+14,71,MALE,Mumbai,cold,hypotension,14/03/2021
+2.72E+14,26,FEMALE,navi mumbai,fever,diabetes,15/03/2021
+9.78E+14,32,MALE,navi mumbai,cough,none,14/02/2021
+8.65E+13,45,FEMALE,navi mumbai,cold,hypertension,24/03/2021
+5.43E+12,20,MALE,navi mumbai,fever,hypotension,24/04/2021
+7.94E+11,23,FEMALE,Thane,cough,diabetes,16/07/2021
+6.71E+13,33,MALE,Raigad,cold,none,4/3/2021
+1.85E+12,52,FEMALE,Thane,fever,hypertension,14/03/2021
+7.75E+12,55,MALE,Mumbai,cough,hypotension,15/03/2021
+4.54E+13,43,FEMALE,Mumbai,cold,diabetes,14/02/2021
+9.67E+12,24,MALE,Mumbai,fever,none,24/03/2021
+1.49E+11,26,FEMALE,navi mumbai,cough,hypertension,24/04/2021
+6.55E+12,39,MALE,navi mumbai,cold,hypotension,16/07/2021
+5.75E+12,45,FEMALE,navi mumbai,fever,diabetes,4/3/2021
+6.26E+11,42,MALE,navi mumbai,cough,none,14/03/2021
+9.91E+13,60,FEMALE,navi mumbai,cold,hypertension,15/03/2021
+1.49E+12,71,MALE,Thane,fever,hypotension,14/02/2021
+1.98E+13,26,FEMALE,Thane,cough,diabetes,24/03/2021
+1.83E+11,32,MALE,Thane,cold,none,24/04/2021
+2.27E+11,45,FEMALE,Thane,fever,hypertension,16/07/2021
+2.69E+13,20,MALE,Thane,cough,hypotension,4/3/2021
+7.47E+13,23,FEMALE,Raigad,cold,diabetes,14/03/2021
+3.38E+12,33,MALE,Raigad,fever,none,15/03/2021
+4.14E+12,51,FEMALE,Mumbai,cough,hypertension,14/02/2021
+4.45E+12,55,MALE,Mumbai,cold,hypotension,24/03/2021
+4.31E+14,43,FEMALE,Mumbai,fever,diabetes,24/04/2021
+8.78E+14,24,MALE,Mumbai,cough,none,16/07/2021
+2.29E+12,26,FEMALE,Mumbai,cold,hypertension,4/3/2021
+2.95E+14,39,MALE,navi mumbai,fever,hypotension,14/03/2021
+6.32E+13,45,FEMALE,navi mumbai,cough,diabetes,15/03/2021
+8.19E+12,42,MALE,navi mumbai,cold,none,14/02/2021
+1.99E+14,60,FEMALE,Thane,fever,hypertension,24/03/2021
+7.94E+13,71,MALE,Raigad,cough,hypotension,24/04/2021
+5.25E+12,26,FEMALE,Raigad,cold,diabetes,16/07/2021
+3.73E+14,32,MALE,Mumbai,fever,none,4/3/2021
+1.25E+11,45,FEMALE,Mumbai,cough,hypertension,14/03/2021
+1.66E+14,20,MALE,Mumbai,cold,hypotension,15/03/2021
+6.82E+13,23,FEMALE,Mumbai,fever,diabetes,14/02/2021
+4.23E+13,33,MALE,Raigad,cough,none,24/03/2021
+3.72E+11,36,FEMALE,Thane,fever,hypertension,24/04/2021
+3.33E+12,55,MALE,Mumbai,fever,hypotension,16/07/2021
+2.92E+12,43,FEMALE,navi mumbai,fever,none,4/3/2021

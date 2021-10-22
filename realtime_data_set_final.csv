@@ -1,0 +1,1001 @@
+Patient Age,Patient Gender,Patient Location (District),Symptoms,Pre-existing conditions,Scheduled Appointment,BOOKING NUMBER
+26,MALE,Thane,cold,diabetes,7-Jul-2018,B1
+32,FEMALE,Mumbai,fever,none,8-Jul-2018,B2
+45,MALE,Raigad,cough,hypertension,9-Jul-2018,B3
+20,FEMALE,Thane,cold,hypotension,10-Jul-2018,B4
+23,MALE,Mumbai,fever,diabetes,11-Jul-2018,B5
+33,FEMALE,Raigad,cough,none,12-Jul-2018,B6
+24,MALE,navi mumbai,cold,hypertension,13-Jul-2018,B7
+55,FEMALE,navi mumbai,fever,hypotension,14-Jul-2018,B8
+43,MALE,Thane,cough,diabetes,15-Jul-2018,B9
+24,FEMALE,Mumbai,cold,none,16-Jul-2018,B10
+26,MALE,Raigad,fever,hypertension,17-Jul-2018,B11
+39,FEMALE,Raigad,cough,hypotension,18-Jul-2018,B12
+45,MALE,Thane,cold,diabetes,19-Jul-2018,B13
+42,FEMALE,Mumbai,fever,none,20-Jul-2018,B14
+60,MALE,navi mumbai,cough,hypertension,21-Jul-2018,B15
+71,MALE,Mumbai,cold,hypotension,22-Jul-2018,B16
+26,FEMALE,navi mumbai,fever,diabetes,23-Jul-2018,B17
+32,MALE,Mumbai,cough,none,24-Jul-2018,B18
+45,FEMALE,navi mumbai,cold,hypertension,25-Jul-2018,B19
+20,MALE,Thane,fever,hypotension,26-Jul-2018,B20
+23,FEMALE,Raigad,cough,diabetes,27-Jul-2018,B21
+33,MALE,Thane,cold,none,28-Jul-2018,B22
+11,FEMALE,Raigad,fever,hypertension,29-Jul-2018,B23
+55,MALE,Thane,cough,hypotension,30-Jul-2018,B24
+43,FEMALE,Raigad,cold,diabetes,31-Jul-2018,B25
+24,MALE,Mumbai,fever,none,1-Aug-2018,B26
+26,FEMALE,navi mumbai,cough,hypertension,2-Aug-2018,B27
+39,MALE,Thane,cold,hypotension,3-Aug-2018,B28
+45,FEMALE,Raigad,fever,diabetes,4-Aug-2018,B29
+42,MALE,Mumbai,cough,none,5-Aug-2018,B30
+60,FEMALE,Mumbai,cold,hypertension,6-Aug-2018,B31
+71,MALE,Mumbai,fever,hypotension,7-Aug-2018,B32
+26,FEMALE,navi mumbai,cough,diabetes,8-Aug-2018,B33
+32,MALE,navi mumbai,cold,none,9-Aug-2018,B34
+45,FEMALE,navi mumbai,fever,hypertension,10-Aug-2018,B35
+20,MALE,Thane,cough,hypotension,11-Aug-2018,B36
+23,FEMALE,Thane,cold,diabetes,12-Aug-2018,B37
+33,MALE,Thane,fever,none,13-Aug-2018,B38
+38,FEMALE,Thane,cough,hypertension,14-Aug-2018,B39
+55,MALE,navi mumbai,cold,hypotension,15-Aug-2018,B40
+43,FEMALE,Raigad,fever,diabetes,16-Aug-2018,B41
+24,MALE,Mumbai,cough,none,17-Aug-2018,B42
+26,FEMALE,Mumbai,cold,hypertension,18-Aug-2018,B43
+39,MALE,Mumbai,fever,hypotension,19-Aug-2018,B44
+45,FEMALE,navi mumbai,cough,diabetes,20-Aug-2018,B45
+42,MALE,navi mumbai,cold,none,21-Aug-2018,B46
+60,FEMALE,navi mumbai,fever,hypertension,22-Aug-2018,B47
+71,MALE,navi mumbai,cough,hypotension,23-Aug-2018,B48
+26,FEMALE,navi mumbai,cold,diabetes,24-Aug-2018,B49
+32,MALE,navi mumbai,fever,none,25-Aug-2018,B50
+45,FEMALE,navi mumbai,cough,hypertension,26-Aug-2018,B51
+20,MALE,Mumbai,cold,hypotension,27-Aug-2018,B52
+23,FEMALE,Mumbai,fever,diabetes,28-Aug-2018,B53
+33,MALE,Mumbai,cough,none,29-Aug-2018,B54
+21,FEMALE,Mumbai,cold,hypertension,30-Aug-2018,B55
+55,MALE,Thane,fever,hypotension,31-Aug-2018,B56
+43,FEMALE,Thane,cough,diabetes,1-Sep-2018,B57
+24,MALE,Thane,cold,none,2-Sep-2018,B58
+26,FEMALE,Raigad,fever,hypertension,3-Sep-2018,B59
+39,MALE,Mumbai,cough,hypotension,4-Sep-2018,B60
+45,FEMALE,Mumbai,cold,diabetes,5-Sep-2018,B61
+42,MALE,Mumbai,fever,none,6-Sep-2018,B62
+60,FEMALE,Mumbai,cough,hypertension,7-Sep-2018,B63
+71,MALE,Mumbai,cold,hypotension,8-Sep-2018,B64
+26,FEMALE,navi mumbai,fever,diabetes,9-Sep-2018,B65
+32,MALE,navi mumbai,cough,none,10-Sep-2018,B66
+45,FEMALE,navi mumbai,cold,hypertension,11-Sep-2018,B67
+20,MALE,navi mumbai,fever,hypotension,12-Sep-2018,B68
+23,FEMALE,Thane,cough,diabetes,13-Sep-2018,B69
+33,MALE,Raigad,cold,none,14-Sep-2018,B70
+58,FEMALE,Thane,fever,hypertension,15-Sep-2018,B71
+55,MALE,Mumbai,cough,hypotension,16-Sep-2018,B72
+43,FEMALE,Mumbai,cold,diabetes,17-Sep-2018,B73
+24,MALE,Mumbai,fever,none,18-Sep-2018,B74
+26,FEMALE,navi mumbai,cough,hypertension,19-Sep-2018,B75
+39,MALE,navi mumbai,cold,hypotension,20-Sep-2018,B76
+45,FEMALE,navi mumbai,fever,diabetes,21-Sep-2018,B77
+42,MALE,navi mumbai,cough,none,22-Sep-2018,B78
+60,FEMALE,navi mumbai,cold,hypertension,23-Sep-2018,B79
+71,MALE,Thane,fever,hypotension,24-Sep-2018,B80
+26,FEMALE,Thane,cough,diabetes,25-Sep-2018,B81
+32,MALE,Thane,cold,none,26-Sep-2018,B82
+45,FEMALE,Thane,fever,hypertension,27-Sep-2018,B83
+20,MALE,Thane,cough,hypotension,28-Sep-2018,B84
+23,FEMALE,Raigad,cold,diabetes,29-Sep-2018,B85
+33,MALE,Raigad,fever,none,30-Sep-2018,B86
+37,FEMALE,Mumbai,cough,hypertension,1-Oct-2018,B87
+55,MALE,Mumbai,cold,hypotension,2-Oct-2018,B88
+43,FEMALE,Mumbai,fever,diabetes,3-Oct-2018,B89
+24,MALE,Mumbai,cough,none,4-Oct-2018,B90
+26,FEMALE,Mumbai,cold,hypertension,5-Oct-2018,B91
+39,MALE,navi mumbai,fever,hypotension,6-Oct-2018,B92
+45,FEMALE,navi mumbai,cough,diabetes,7-Oct-2018,B93
+42,MALE,navi mumbai,cold,none,8-Oct-2018,B94
+60,FEMALE,Thane,fever,hypertension,9-Oct-2018,B95
+71,MALE,Raigad,cough,hypotension,10-Oct-2018,B96
+26,FEMALE,Raigad,cold,diabetes,11-Oct-2018,B97
+32,MALE,Mumbai,fever,none,12-Oct-2018,B98
+45,FEMALE,Mumbai,cough,hypertension,13-Oct-2018,B99
+20,MALE,Mumbai,cold,hypotension,14-Oct-2018,B100
+23,FEMALE,Mumbai,fever,diabetes,15-Oct-2018,B101
+33,MALE,Raigad,cough,none,16-Oct-2018,B102
+63,FEMALE,Thane,fever,hypertension,17-Oct-2018,B103
+55,MALE,Mumbai,fever,hypotension,18-Oct-2018,B104
+43,FEMALE,navi mumbai,fever,none,19-Oct-2018,B105
+56,FEMALE,Thane,cold,hypertension,20-Oct-2018,B106
+76,MALE,Mumbai,fever,hypotension,21-Oct-2018,B107
+21,FEMALE,Raigad,cough,diabetes,22-Oct-2018,B108
+54,MALE,Thane,cold,none,23-Oct-2018,B109
+13,FEMALE,Mumbai,fever,hypertension,24-Oct-2018,B110
+17,MALE,Raigad,cough,hypotension,25-Oct-2018,B111
+20,FEMALE,navi mumbai,cold,diabetes,26-Oct-2018,B112
+50,MALE,Thane,fever,none,27-Oct-2018,B113
+63,FEMALE,Mumbai,cold,hypertension,28-Oct-2018,B114
+7,FEMALE,Raigad,fever,hypotension,29-Oct-2018,B115
+15,MALE,Thane,cough,diabetes,30-Oct-2018,B116
+56,FEMALE,Mumbai,cold,none,31-Oct-2018,B117
+76,MALE,Raigad,fever,hypertension,1-Nov-2018,B118
+21,FEMALE,navi mumbai,cough,hypotension,2-Nov-2018,B119
+54,MALE,Thane,cold,diabetes,3-Nov-2018,B120
+13,FEMALE,Mumbai,fever,none,4-Nov-2018,B121
+17,MALE,Raigad,cold,hypertension,5-Nov-2018,B122
+20,FEMALE,Thane,fever,hypotension,6-Nov-2018,B123
+50,FEMALE,Mumbai,cough,diabetes,7-Nov-2018,B124
+63,MALE,Raigad,cold,none,8-Nov-2018,B125
+7,FEMALE,navi mumbai,fever,hypertension,9-Nov-2018,B126
+15,MALE,Thane,cough,hypotension,10-Nov-2018,B127
+56,FEMALE,Mumbai,cold,diabetes,11-Nov-2018,B128
+76,MALE,Raigad,fever,none,12-Nov-2018,B129
+21,FEMALE,Thane,cold,hypertension,13-Nov-2018,B130
+54,MALE,Mumbai,fever,hypotension,14-Nov-2018,B131
+13,FEMALE,Raigad,cough,diabetes,15-Nov-2018,B132
+17,FEMALE,navi mumbai,cold,none,16-Nov-2018,B133
+20,MALE,Thane,fever,hypertension,17-Nov-2018,B134
+50,FEMALE,Mumbai,cough,hypotension,18-Nov-2018,B135
+63,MALE,Raigad,cold,diabetes,19-Nov-2018,B136
+7,FEMALE,Thane,fever,none,20-Nov-2018,B137
+15,MALE,Mumbai,cold,hypertension,21-Nov-2018,B138
+56,FEMALE,Raigad,fever,hypotension,22-Nov-2018,B139
+76,MALE,navi mumbai,cough,diabetes,23-Nov-2018,B140
+21,FEMALE,Thane,cold,none,24-Nov-2018,B141
+54,FEMALE,Mumbai,fever,hypertension,25-Nov-2018,B142
+13,MALE,Raigad,cough,hypotension,26-Nov-2018,B143
+17,FEMALE,Thane,cold,diabetes,27-Nov-2018,B144
+20,MALE,Mumbai,fever,hypertension,28-Nov-2018,B145
+50,FEMALE,Raigad,cold,hypotension,29-Nov-2018,B146
+63,MALE,navi mumbai,fever,diabetes,30-Nov-2018,B147
+7,FEMALE,Thane,cough,none,1-Dec-2018,B148
+15,MALE,Mumbai,cold,hypertension,2-Dec-2018,B149
+56,FEMALE,Raigad,fever,hypotension,3-Dec-2018,B150
+76,FEMALE,Thane,cough,diabetes,4-Dec-2018,B151
+21,MALE,Mumbai,cold,none,5-Dec-2018,B152
+54,FEMALE,Raigad,fever,hypertension,6-Dec-2018,B153
+13,MALE,navi mumbai,cold,hypotension,7-Dec-2018,B154
+17,FEMALE,Thane,fever,diabetes,8-Dec-2018,B155
+20,MALE,Mumbai,cough,hypertension,9-Dec-2018,B156
+50,FEMALE,Raigad,cold,hypotension,10-Dec-2018,B157
+63,MALE,Thane,fever,diabetes,11-Dec-2018,B158
+7,FEMALE,Mumbai,cough,none,12-Dec-2018,B159
+15,FEMALE,Raigad,cold,hypertension,13-Dec-2018,B160
+56,MALE,navi mumbai,fever,hypotension,14-Dec-2018,B161
+76,FEMALE,Thane,cold,diabetes,15-Dec-2018,B162
+21,MALE,Mumbai,fever,none,16-Dec-2018,B163
+54,FEMALE,Raigad,cough,hypertension,17-Dec-2018,B164
+13,MALE,Thane,cold,hypotension,18-Dec-2018,B165
+17,FEMALE,Mumbai,fever,diabetes,19-Dec-2018,B166
+20,MALE,Raigad,cough,hypertension,20-Dec-2018,B167
+50,FEMALE,navi mumbai,cold,hypotension,21-Dec-2018,B168
+23,FEMALE,Thane,fever,diabetes,22-Dec-2018,B169
+7,MALE,Mumbai,cold,none,23-Dec-2018,B170
+15,FEMALE,Raigad,fever,hypertension,24-Dec-2018,B171
+56,MALE,Thane,cough,hypotension,25-Dec-2018,B172
+76,FEMALE,Mumbai,cold,diabetes,26-Dec-2018,B173
+21,MALE,Raigad,fever,none,27-Dec-2018,B174
+54,FEMALE,navi mumbai,cough,hypertension,28-Dec-2018,B175
+13,MALE,Thane,cold,hypotension,29-Dec-2018,B176
+17,FEMALE,Mumbai,fever,diabetes,30-Dec-2018,B177
+20,FEMALE,Raigad,cold,hypertension,31-Dec-2018,B178
+50,MALE,Thane,fever,hypotension,1-Jan-2019,B179
+63,FEMALE,Mumbai,cough,diabetes,2-Jan-2019,B180
+7,MALE,Raigad,cold,none,3-Jan-2019,B181
+15,FEMALE,navi mumbai,fever,hypertension,4-Jan-2019,B182
+56,MALE,Thane,cough,hypotension,5-Jan-2019,B183
+76,FEMALE,Mumbai,cold,diabetes,6-Jan-2019,B184
+21,MALE,Raigad,fever,none,7-Jan-2019,B185
+54,FEMALE,Thane,cold,hypertension,8-Jan-2019,B186
+13,FEMALE,Mumbai,fever,hypotension,9-Jan-2019,B187
+17,MALE,Raigad,cough,diabetes,10-Jan-2019,B188
+20,FEMALE,navi mumbai,cold,hypertension,11-Jan-2019,B189
+50,MALE,Thane,fever,hypotension,12-Jan-2019,B190
+24,FEMALE,Mumbai,cough,diabetes,13-Jan-2019,B191
+7,MALE,Raigad,cold,none,14-Jan-2019,B192
+15,FEMALE,Thane,fever,hypertension,15-Jan-2019,B193
+76,MALE,Mumbai,cold,hypotension,16-Jan-2019,B194
+21,FEMALE,Raigad,fever,diabetes,17-Jan-2019,B195
+54,MALE,navi mumbai,cough,none,18-Jan-2019,B196
+13,FEMALE,navi mumbai,cold,hypertension,19-Jan-2019,B197
+17,MALE,Thane,fever,hypotension,20-Jan-2019,B198
+20,FEMALE,Mumbai,cough,diabetes,21-Jan-2019,B199
+50,MALE,Raigad,cold,hypertension,22-Jan-2019,B200
+24,FEMALE,Thane,fever,hypotension,23-Jan-2019,B201
+7,MALE,Mumbai,cold,diabetes,24-Jan-2019,B202
+15,FEMALE,Raigad,fever,none,25-Jan-2019,B203
+76,MALE,navi mumbai,cough,hypertension,26-Jan-2019,B204
+21,FEMALE,navi mumbai,cold,hypotension,27-Jan-2019,B205
+54,MALE,Thane,fever,diabetes,28-Jan-2019,B206
+13,FEMALE,Mumbai,cough,none,29-Jan-2019,B207
+17,MALE,Raigad,cold,hypertension,30-Jan-2019,B208
+20,FEMALE,Thane,fever,hypotension,31-Jan-2019,B209
+50,MALE,Mumbai,cold,diabetes,1-Feb-2019,B210
+24,FEMALE,Raigad,fever,hypertension,2-Feb-2019,B211
+7,MALE,navi mumbai,cough,hypotension,3-Feb-2019,B212
+15,FEMALE,navi mumbai,cold,diabetes,4-Feb-2019,B213
+76,MALE,Thane,fever,none,5-Feb-2019,B214
+21,FEMALE,navi mumbai,cough,hypertension,6-Feb-2019,B215
+54,MALE,Thane,cold,hypotension,7-Feb-2019,B216
+13,FEMALE,Mumbai,fever,diabetes,8-Feb-2019,B217
+17,MALE,Raigad,cold,none,9-Feb-2019,B218
+20,FEMALE,Thane,fever,hypertension,10-Feb-2019,B219
+50,MALE,Mumbai,cough,hypotension,11-Feb-2019,B220
+24,FEMALE,Raigad,cold,diabetes,12-Feb-2019,B221
+7,MALE,navi mumbai,fever,hypertension,13-Feb-2019,B222
+15,FEMALE,navi mumbai,cough,hypotension,14-Feb-2019,B223
+76,MALE,Thane,cold,diabetes,15-Feb-2019,B224
+21,FEMALE,Mumbai,fever,none,16-Feb-2019,B225
+54,MALE,Raigad,cold,hypertension,17-Feb-2019,B226
+13,FEMALE,Thane,fever,hypotension,18-Feb-2019,B227
+17,MALE,Mumbai,cough,diabetes,19-Feb-2019,B228
+20,FEMALE,Raigad,cold,none,20-Feb-2019,B229
+50,MALE,navi mumbai,fever,hypertension,21-Feb-2019,B230
+24,FEMALE,navi mumbai,cough,hypotension,22-Feb-2019,B231
+7,MALE,Thane,cold,diabetes,23-Feb-2019,B232
+15,FEMALE,Mumbai,fever,hypertension,24-Feb-2019,B233
+76,MALE,Raigad,cold,hypotension,25-Feb-2019,B234
+21,FEMALE,Thane,fever,diabetes,26-Feb-2019,B235
+54,MALE,Mumbai,cough,none,27-Feb-2019,B236
+13,FEMALE,Raigad,cold,hypertension,28-Feb-2019,B237
+17,MALE,navi mumbai,fever,hypotension,1-Mar-2019,B238
+20,FEMALE,navi mumbai,cough,diabetes,2-Mar-2019,B239
+50,MALE,Thane,cold,none,3-Mar-2019,B240
+24,FEMALE,navi mumbai,fever,hypertension,4-Mar-2019,B241
+7,MALE,Thane,cold,hypotension,5-Mar-2019,B242
+15,FEMALE,Mumbai,fever,diabetes,6-Mar-2019,B243
+76,MALE,Raigad,cough,hypertension,7-Mar-2019,B244
+21,FEMALE,Thane,cold,hypotension,8-Mar-2019,B245
+54,MALE,Mumbai,fever,diabetes,9-Mar-2019,B246
+13,FEMALE,Raigad,cough,none,10-Mar-2019,B247
+17,MALE,navi mumbai,cold,hypertension,11-Mar-2019,B248
+20,FEMALE,navi mumbai,fever,hypotension,12-Mar-2019,B249
+50,MALE,Thane,cold,diabetes,13-Mar-2019,B250
+24,FEMALE,Mumbai,fever,none,14-Mar-2019,B251
+7,MALE,Raigad,cough,hypertension,15-Mar-2019,B252
+15,FEMALE,Thane,cold,hypotension,16-Mar-2019,B253
+76,MALE,Mumbai,fever,diabetes,17-Mar-2019,B254
+21,FEMALE,Raigad,cough,hypertension,18-Mar-2019,B255
+54,MALE,navi mumbai,cold,hypotension,19-Mar-2019,B256
+13,FEMALE,navi mumbai,fever,diabetes,20-Mar-2019,B257
+17,MALE,Thane,cold,none,21-Mar-2019,B258
+20,FEMALE,Mumbai,fever,hypertension,22-Mar-2019,B259
+50,MALE,Raigad,cough,hypotension,23-Mar-2019,B260
+24,FEMALE,Thane,cold,diabetes,24-Mar-2019,B261
+7,MALE,Mumbai,fever,none,25-Mar-2019,B262
+15,FEMALE,Raigad,cough,hypertension,26-Mar-2019,B263
+76,MALE,navi mumbai,cold,hypotension,27-Mar-2019,B264
+21,FEMALE,navi mumbai,fever,diabetes,28-Mar-2019,B265
+54,MALE,Thane,cold,hypertension,29-Mar-2019,B266
+13,FEMALE,navi mumbai,fever,hypotension,30-Mar-2019,B267
+17,MALE,Thane,cough,diabetes,31-Mar-2019,B268
+20,FEMALE,Mumbai,cold,none,1-Apr-2019,B269
+50,MALE,Raigad,fever,hypertension,2-Apr-2019,B270
+24,FEMALE,Thane,cough,hypotension,3-Apr-2019,B271
+7,MALE,Mumbai,cold,diabetes,4-Apr-2019,B272
+15,FEMALE,Raigad,fever,none,5-Apr-2019,B273
+76,MALE,navi mumbai,cold,hypertension,6-Apr-2019,B274
+21,FEMALE,navi mumbai,fever,hypotension,7-Apr-2019,B275
+54,MALE,Thane,cough,diabetes,8-Apr-2019,B276
+13,FEMALE,Mumbai,cold,hypertension,9-Apr-2019,B277
+17,MALE,Raigad,fever,hypotension,10-Apr-2019,B278
+20,FEMALE,Thane,cough,diabetes,11-Apr-2019,B279
+50,MALE,Mumbai,cold,none,12-Apr-2019,B280
+24,FEMALE,Raigad,fever,hypertension,13-Apr-2019,B281
+7,MALE,navi mumbai,cold,hypotension,14-Apr-2019,B282
+15,FEMALE,navi mumbai,fever,diabetes,15-Apr-2019,B283
+76,MALE,Thane,cough,none,16-Apr-2019,B284
+21,FEMALE,Mumbai,cold,hypertension,17-Apr-2019,B285
+54,MALE,Raigad,fever,hypotension,18-Apr-2019,B286
+13,FEMALE,Thane,cough,diabetes,19-Apr-2019,B287
+17,MALE,Mumbai,cold,hypertension,20-Apr-2019,B288
+20,FEMALE,Raigad,fever,hypotension,21-Apr-2019,B289
+50,MALE,navi mumbai,cold,diabetes,22-Apr-2019,B290
+24,FEMALE,navi mumbai,fever,none,23-Apr-2019,B291
+7,MALE,Thane,cough,hypertension,24-Apr-2019,B292
+15,FEMALE,navi mumbai,cold,hypotension,25-Apr-2019,B293
+76,MALE,Thane,fever,diabetes,26-Apr-2019,B294
+21,FEMALE,Mumbai,cough,none,27-Apr-2019,B295
+54,MALE,Raigad,cold,hypertension,28-Apr-2019,B296
+13,FEMALE,Thane,fever,hypotension,29-Apr-2019,B297
+17,MALE,Mumbai,cold,diabetes,30-Apr-2019,B298
+20,FEMALE,Raigad,fever,hypertension,1-May-2019,B299
+50,MALE,navi mumbai,cough,hypotension,2-May-2019,B300
+24,FEMALE,navi mumbai,cold,diabetes,3-May-2019,B301
+7,MALE,Thane,fever,none,4-May-2019,B302
+15,FEMALE,Mumbai,cough,hypertension,5-May-2019,B303
+76,MALE,Raigad,cold,hypotension,6-May-2019,B304
+21,FEMALE,Thane,fever,diabetes,7-May-2019,B305
+54,MALE,Mumbai,cold,none,8-May-2019,B306
+13,FEMALE,Raigad,fever,hypertension,9-May-2019,B307
+17,MALE,navi mumbai,cough,hypotension,10-May-2019,B308
+20,FEMALE,navi mumbai,cold,diabetes,11-May-2019,B309
+50,MALE,Thane,fever,hypertension,12-May-2019,B310
+24,FEMALE,Mumbai,cough,hypotension,13-May-2019,B311
+7,MALE,Raigad,cold,diabetes,14-May-2019,B312
+15,FEMALE,Thane,fever,none,15-May-2019,B313
+76,MALE,Mumbai,cold,hypertension,16-May-2019,B314
+21,FEMALE,Raigad,fever,hypotension,17-May-2019,B315
+54,MALE,navi mumbai,cough,diabetes,18-May-2019,B316
+13,FEMALE,navi mumbai,cold,none,19-May-2019,B317
+17,MALE,Thane,fever,hypertension,20-May-2019,B318
+20,FEMALE,navi mumbai,cough,hypotension,21-May-2019,B319
+50,MALE,Thane,cold,diabetes,22-May-2019,B320
+24,FEMALE,Mumbai,fever,hypertension,23-May-2019,B321
+7,MALE,Raigad,cold,hypotension,24-May-2019,B322
+15,FEMALE,Thane,fever,diabetes,25-May-2019,B323
+76,MALE,Mumbai,cough,none,26-May-2019,B324
+21,FEMALE,Raigad,cold,hypertension,27-May-2019,B325
+54,MALE,navi mumbai,fever,hypotension,28-May-2019,B326
+13,FEMALE,navi mumbai,cough,diabetes,29-May-2019,B327
+17,MALE,Thane,cold,none,30-May-2019,B328
+20,FEMALE,Mumbai,fever,hypertension,31-May-2019,B329
+50,MALE,Raigad,cold,hypotension,1-Jun-2019,B330
+24,FEMALE,Thane,fever,diabetes,2-Jun-2019,B331
+7,MALE,Mumbai,cough,hypertension,3-Jun-2019,B332
+15,FEMALE,Raigad,cold,hypotension,4-Jun-2019,B333
+76,MALE,navi mumbai,fever,diabetes,5-Jun-2019,B334
+21,FEMALE,navi mumbai,cough,none,6-Jun-2019,B335
+54,MALE,Thane,cold,hypertension,7-Jun-2019,B336
+13,FEMALE,Mumbai,fever,hypotension,8-Jun-2019,B337
+17,MALE,Raigad,cold,diabetes,9-Jun-2019,B338
+20,FEMALE,Thane,fever,none,10-Jun-2019,B339
+50,MALE,Mumbai,cough,hypertension,11-Jun-2019,B340
+24,FEMALE,Raigad,cold,hypotension,12-Jun-2019,B341
+7,MALE,navi mumbai,fever,diabetes,13-Jun-2019,B342
+15,FEMALE,navi mumbai,cough,hypertension,14-Jun-2019,B343
+76,MALE,Thane,cold,hypotension,15-Jun-2019,B344
+21,FEMALE,navi mumbai,fever,diabetes,16-Jun-2019,B345
+54,MALE,Thane,cold,none,17-Jun-2019,B346
+13,FEMALE,Mumbai,fever,hypertension,18-Jun-2019,B347
+17,MALE,Raigad,cough,hypotension,19-Jun-2019,B348
+20,FEMALE,Thane,cold,diabetes,20-Jun-2019,B349
+50,MALE,Mumbai,fever,none,21-Jun-2019,B350
+24,FEMALE,Raigad,cough,hypertension,22-Jun-2019,B351
+7,MALE,navi mumbai,cold,hypotension,23-Jun-2019,B352
+15,FEMALE,navi mumbai,fever,diabetes,24-Jun-2019,B353
+76,MALE,Thane,cold,hypertension,25-Jun-2019,B354
+21,FEMALE,Mumbai,fever,hypotension,26-Jun-2019,B355
+54,MALE,Raigad,cough,diabetes,27-Jun-2019,B356
+13,FEMALE,Thane,cold,none,28-Jun-2019,B357
+17,MALE,Mumbai,fever,hypertension,29-Jun-2019,B358
+20,FEMALE,Raigad,cough,hypotension,30-Jun-2019,B359
+50,MALE,navi mumbai,cold,diabetes,1-Jul-2019,B360
+24,FEMALE,navi mumbai,fever,none,2-Jul-2019,B361
+7,MALE,Thane,cold,hypertension,3-Jul-2019,B362
+15,FEMALE,Mumbai,fever,hypotension,4-Jul-2019,B363
+76,MALE,Raigad,cough,diabetes,5-Jul-2019,B364
+21,FEMALE,Thane,cold,hypertension,6-Jul-2019,B365
+54,MALE,Mumbai,fever,hypotension,7-Jul-2019,B366
+13,FEMALE,Raigad,cough,diabetes,8-Jul-2019,B367
+17,MALE,navi mumbai,cold,none,9-Jul-2019,B368
+20,FEMALE,navi mumbai,fever,hypertension,10-Jul-2019,B369
+50,MALE,Thane,cold,hypotension,11-Jul-2019,B370
+24,FEMALE,navi mumbai,fever,diabetes,12-Jul-2019,B371
+7,MALE,Thane,cough,none,13-Jul-2019,B372
+15,FEMALE,Mumbai,cold,hypertension,14-Jul-2019,B373
+76,MALE,Raigad,fever,hypotension,15-Jul-2019,B374
+21,FEMALE,Thane,cough,diabetes,16-Jul-2019,B375
+54,MALE,Mumbai,cold,hypertension,17-Jul-2019,B376
+13,FEMALE,Raigad,fever,hypotension,18-Jul-2019,B377
+17,MALE,navi mumbai,cold,diabetes,19-Jul-2019,B378
+20,FEMALE,navi mumbai,fever,none,20-Jul-2019,B379
+50,MALE,Thane,cough,hypertension,21-Jul-2019,B380
+24,FEMALE,Mumbai,cold,hypotension,22-Jul-2019,B381
+7,MALE,Raigad,fever,diabetes,23-Jul-2019,B382
+15,FEMALE,Thane,cough,none,24-Jul-2019,B383
+76,MALE,Mumbai,cold,hypertension,25-Jul-2019,B384
+21,FEMALE,Raigad,fever,hypotension,26-Jul-2019,B385
+54,MALE,navi mumbai,cold,diabetes,27-Jul-2019,B386
+13,FEMALE,navi mumbai,fever,hypertension,28-Jul-2019,B387
+17,MALE,Thane,cough,hypotension,29-Jul-2019,B388
+20,FEMALE,Mumbai,cold,diabetes,30-Jul-2019,B389
+50,MALE,Raigad,fever,none,31-Jul-2019,B390
+24,FEMALE,Thane,cough,hypertension,1-Aug-2019,B391
+7,MALE,Mumbai,cold,hypotension,2-Aug-2019,B392
+15,FEMALE,Raigad,fever,diabetes,3-Aug-2019,B393
+76,MALE,navi mumbai,cold,none,4-Aug-2019,B394
+21,FEMALE,navi mumbai,fever,hypertension,5-Aug-2019,B395
+54,MALE,Thane,cough,hypotension,6-Aug-2019,B396
+13,FEMALE,navi mumbai,cold,diabetes,7-Aug-2019,B397
+17,MALE,Thane,fever,hypertension,8-Aug-2019,B398
+20,FEMALE,Mumbai,cough,hypotension,9-Aug-2019,B399
+50,MALE,Raigad,cold,diabetes,10-Aug-2019,B400
+24,FEMALE,Thane,fever,none,11-Aug-2019,B401
+7,MALE,Mumbai,cold,hypertension,12-Aug-2019,B402
+15,FEMALE,Raigad,fever,hypotension,13-Aug-2019,B403
+76,MALE,navi mumbai,cough,diabetes,14-Aug-2019,B404
+21,FEMALE,navi mumbai,cold,none,15-Aug-2019,B405
+54,MALE,Thane,fever,hypertension,16-Aug-2019,B406
+13,FEMALE,Mumbai,cough,hypotension,17-Aug-2019,B407
+17,MALE,Raigad,cold,diabetes,18-Aug-2019,B408
+20,FEMALE,Thane,fever,hypertension,19-Aug-2019,B409
+50,MALE,Mumbai,cold,hypotension,20-Aug-2019,B410
+24,FEMALE,Raigad,fever,diabetes,21-Aug-2019,B411
+7,MALE,navi mumbai,cough,none,22-Aug-2019,B412
+15,FEMALE,navi mumbai,cold,hypertension,23-Aug-2019,B413
+76,MALE,Thane,fever,hypotension,24-Aug-2019,B414
+21,FEMALE,Mumbai,cough,diabetes,25-Aug-2019,B415
+54,MALE,Raigad,cold,none,26-Aug-2019,B416
+13,FEMALE,Thane,fever,hypertension,27-Aug-2019,B417
+17,MALE,Mumbai,cold,hypotension,28-Aug-2019,B418
+20,FEMALE,Raigad,fever,diabetes,29-Aug-2019,B419
+50,MALE,navi mumbai,cough,hypertension,30-Aug-2019,B420
+24,FEMALE,navi mumbai,cold,hypotension,31-Aug-2019,B421
+7,MALE,Thane,fever,diabetes,1-Sep-2019,B422
+15,FEMALE,navi mumbai,cough,none,2-Sep-2019,B423
+76,MALE,Thane,cold,hypertension,3-Sep-2019,B424
+21,FEMALE,Mumbai,fever,hypotension,4-Sep-2019,B425
+54,MALE,Raigad,cold,diabetes,5-Sep-2019,B426
+13,FEMALE,Thane,fever,none,6-Sep-2019,B427
+17,MALE,Mumbai,cough,hypertension,7-Sep-2019,B428
+20,FEMALE,Raigad,cold,hypotension,8-Sep-2019,B429
+50,MALE,navi mumbai,fever,diabetes,9-Sep-2019,B430
+24,FEMALE,navi mumbai,cough,hypertension,10-Sep-2019,B431
+7,MALE,Thane,cold,hypotension,11-Sep-2019,B432
+15,FEMALE,Mumbai,fever,diabetes,12-Sep-2019,B433
+76,MALE,Raigad,cold,none,13-Sep-2019,B434
+21,FEMALE,Thane,fever,hypertension,14-Sep-2019,B435
+54,MALE,Mumbai,cough,hypotension,15-Sep-2019,B436
+13,FEMALE,Raigad,cold,diabetes,16-Sep-2019,B437
+17,MALE,navi mumbai,fever,none,17-Sep-2019,B438
+20,FEMALE,navi mumbai,cough,hypertension,18-Sep-2019,B439
+50,MALE,Thane,cold,hypotension,19-Sep-2019,B440
+24,FEMALE,Mumbai,fever,diabetes,20-Sep-2019,B441
+7,MALE,Raigad,fever,hypertension,21-Sep-2019,B442
+15,FEMALE,Thane,cough,hypotension,22-Sep-2019,B443
+76,MALE,Mumbai,cold,diabetes,23-Sep-2019,B444
+21,FEMALE,Raigad,fever,none,24-Sep-2019,B445
+54,MALE,navi mumbai,cough,hypertension,25-Sep-2019,B446
+13,FEMALE,navi mumbai,cold,hypotension,26-Sep-2019,B447
+17,MALE,Thane,fever,diabetes,27-Sep-2019,B448
+20,FEMALE,navi mumbai,fever,none,28-Sep-2019,B449
+50,MALE,Thane,cough,hypertension,29-Sep-2019,B450
+24,FEMALE,Mumbai,cold,hypotension,30-Sep-2019,B451
+7,MALE,Raigad,fever,diabetes,1-Oct-2019,B452
+15,FEMALE,Thane,cough,hypertension,2-Oct-2019,B453
+76,MALE,Mumbai,cold,hypotension,3-Oct-2019,B454
+21,FEMALE,Raigad,fever,diabetes,4-Oct-2019,B455
+54,MALE,navi mumbai,fever,none,5-Oct-2019,B456
+13,FEMALE,navi mumbai,cough,hypertension,6-Oct-2019,B457
+17,MALE,Thane,cold,hypotension,7-Oct-2019,B458
+20,FEMALE,Mumbai,fever,diabetes,8-Oct-2019,B459
+50,MALE,Raigad,cough,none,9-Oct-2019,B460
+24,FEMALE,Thane,cold,hypertension,10-Oct-2019,B461
+7,MALE,Mumbai,fever,hypotension,11-Oct-2019,B462
+15,FEMALE,Raigad,fever,diabetes,12-Oct-2019,B463
+76,MALE,navi mumbai,cough,hypertension,13-Oct-2019,B464
+21,FEMALE,navi mumbai,cold,hypotension,14-Oct-2019,B465
+54,MALE,Thane,fever,diabetes,15-Oct-2019,B466
+13,FEMALE,Mumbai,cough,none,16-Oct-2019,B467
+17,MALE,Raigad,cold,hypertension,17-Oct-2019,B468
+20,FEMALE,Thane,fever,hypotension,18-Oct-2019,B469
+50,MALE,Mumbai,fever,diabetes,19-Oct-2019,B470
+24,FEMALE,Raigad,cough,none,20-Oct-2019,B471
+7,MALE,navi mumbai,cold,hypertension,21-Oct-2019,B472
+15,FEMALE,navi mumbai,fever,hypotension,22-Oct-2019,B473
+76,MALE,Thane,cough,diabetes,23-Oct-2019,B474
+21,FEMALE,navi mumbai,cold,hypertension,24-Oct-2019,B475
+54,MALE,Thane,fever,hypotension,25-Oct-2019,B476
+13,FEMALE,Mumbai,fever,diabetes,26-Oct-2019,B477
+17,MALE,Raigad,cough,none,27-Oct-2019,B478
+20,FEMALE,Thane,cold,hypertension,28-Oct-2019,B479
+50,MALE,Mumbai,fever,hypotension,29-Oct-2019,B480
+24,FEMALE,Raigad,cough,diabetes,30-Oct-2019,B481
+7,MALE,navi mumbai,cold,none,31-Oct-2019,B482
+15,FEMALE,navi mumbai,fever,hypertension,1-Nov-2019,B483
+76,MALE,Thane,fever,hypotension,2-Nov-2019,B484
+21,FEMALE,Mumbai,cough,diabetes,3-Nov-2019,B485
+54,MALE,Raigad,cold,hypertension,4-Nov-2019,B486
+13,FEMALE,Thane,fever,hypotension,5-Nov-2019,B487
+17,MALE,Mumbai,cough,diabetes,6-Nov-2019,B488
+20,FEMALE,Raigad,cold,none,7-Nov-2019,B489
+50,MALE,navi mumbai,fever,hypertension,8-Nov-2019,B490
+24,FEMALE,navi mumbai,fever,hypotension,9-Nov-2019,B491
+7,MALE,Thane,cough,diabetes,10-Nov-2019,B492
+15,FEMALE,Mumbai,cold,none,11-Nov-2019,B493
+76,MALE,Raigad,fever,hypertension,12-Nov-2019,B494
+21,FEMALE,Thane,cough,hypotension,13-Nov-2019,B495
+54,MALE,Mumbai,cold,diabetes,14-Nov-2019,B496
+13,FEMALE,Raigad,fever,hypertension,15-Nov-2019,B497
+17,MALE,navi mumbai,fever,hypotension,16-Nov-2019,B498
+20,FEMALE,navi mumbai,cough,diabetes,17-Nov-2019,B499
+50,MALE,Thane,cold,none,18-Nov-2019,B500
+24,FEMALE,navi mumbai,fever,hypertension,19-Nov-2019,B501
+7,MALE,Thane,cough,hypotension,20-Nov-2019,B502
+15,FEMALE,Mumbai,cold,diabetes,21-Nov-2019,B503
+76,MALE,Raigad,fever,none,22-Nov-2019,B504
+21,FEMALE,Thane,fever,hypertension,23-Nov-2019,B505
+54,MALE,Mumbai,cough,hypotension,24-Nov-2019,B506
+13,FEMALE,Raigad,cold,diabetes,25-Nov-2019,B507
+17,MALE,navi mumbai,fever,hypertension,26-Nov-2019,B508
+20,FEMALE,navi mumbai,cough,hypotension,27-Nov-2019,B509
+50,MALE,Thane,cold,diabetes,28-Nov-2019,B510
+24,FEMALE,Mumbai,fever,none,29-Nov-2019,B511
+7,MALE,Raigad,fever,hypertension,30-Nov-2019,B512
+15,FEMALE,Thane,cough,hypotension,1-Dec-2019,B513
+76,MALE,Mumbai,cold,diabetes,2-Dec-2019,B514
+21,FEMALE,Raigad,fever,none,3-Dec-2019,B515
+54,MALE,navi mumbai,cough,hypertension,4-Dec-2019,B516
+13,FEMALE,navi mumbai,cold,hypotension,5-Dec-2019,B517
+17,MALE,Thane,fever,diabetes,6-Dec-2019,B518
+20,FEMALE,Mumbai,fever,hypertension,7-Dec-2019,B519
+50,MALE,Raigad,cough,hypotension,8-Dec-2019,B520
+24,FEMALE,Thane,cold,diabetes,9-Dec-2019,B521
+7,MALE,Mumbai,fever,none,10-Dec-2019,B522
+15,FEMALE,Raigad,cough,hypertension,11-Dec-2019,B523
+76,MALE,navi mumbai,cold,hypotension,12-Dec-2019,B524
+21,FEMALE,navi mumbai,fever,diabetes,13-Dec-2019,B525
+54,MALE,Thane,fever,none,14-Dec-2019,B526
+13,FEMALE,navi mumbai,cough,hypertension,15-Dec-2019,B527
+17,MALE,Thane,cold,hypotension,16-Dec-2019,B528
+20,FEMALE,Mumbai,fever,diabetes,17-Dec-2019,B529
+50,MALE,Raigad,cough,hypertension,18-Dec-2019,B530
+24,FEMALE,Thane,cold,hypotension,19-Dec-2019,B531
+7,MALE,Mumbai,fever,diabetes,20-Dec-2019,B532
+15,FEMALE,Raigad,fever,none,21-Dec-2019,B533
+76,MALE,navi mumbai,cough,hypertension,22-Dec-2019,B534
+21,FEMALE,navi mumbai,cold,hypotension,23-Dec-2019,B535
+54,MALE,Thane,fever,diabetes,24-Dec-2019,B536
+13,FEMALE,Mumbai,cough,none,25-Dec-2019,B537
+17,MALE,Raigad,cold,hypertension,26-Dec-2019,B538
+20,FEMALE,Thane,fever,hypotension,27-Dec-2019,B539
+50,MALE,Mumbai,fever,diabetes,28-Dec-2019,B540
+24,FEMALE,Raigad,cough,hypertension,29-Dec-2019,B541
+7,MALE,navi mumbai,cold,hypotension,30-Dec-2019,B542
+15,FEMALE,navi mumbai,fever,diabetes,31-Dec-2019,B543
+76,MALE,Thane,cough,none,1-Jan-2020,B544
+21,FEMALE,Mumbai,cold,hypertension,2-Jan-2020,B545
+54,MALE,Raigad,fever,hypotension,3-Jan-2020,B546
+13,FEMALE,Thane,fever,diabetes,4-Jan-2020,B547
+17,MALE,Mumbai,cough,none,5-Jan-2020,B548
+20,FEMALE,Raigad,cold,hypertension,6-Jan-2020,B549
+50,MALE,navi mumbai,fever,hypotension,7-Jan-2020,B550
+24,FEMALE,navi mumbai,cough,diabetes,8-Jan-2020,B551
+7,MALE,Thane,cold,hypertension,9-Jan-2020,B552
+15,FEMALE,navi mumbai,fever,hypotension,10-Jan-2020,B553
+76,MALE,Thane,fever,diabetes,11-Jan-2020,B554
+21,FEMALE,Mumbai,cough,none,12-Jan-2020,B555
+54,MALE,Raigad,cold,hypertension,13-Jan-2020,B556
+13,FEMALE,Thane,fever,hypotension,14-Jan-2020,B557
+17,MALE,Mumbai,cough,diabetes,7-Jul-2018,B558
+20,FEMALE,Raigad,cold,none,8-Jul-2018,B559
+50,MALE,navi mumbai,fever,hypertension,9-Jul-2018,B560
+24,FEMALE,navi mumbai,fever,hypotension,10-Jul-2018,B561
+7,MALE,Thane,cough,diabetes,11-Jul-2018,B562
+15,FEMALE,Mumbai,cold,hypertension,12-Jul-2018,B563
+76,MALE,Raigad,fever,hypotension,13-Jul-2018,B564
+21,FEMALE,Thane,cough,diabetes,14-Jul-2018,B565
+54,MALE,Mumbai,cold,none,15-Jul-2018,B566
+13,FEMALE,Raigad,fever,hypertension,16-Jul-2018,B567
+17,MALE,navi mumbai,cold,hypotension,17-Jul-2018,B568
+20,FEMALE,navi mumbai,fever,diabetes,18-Jul-2018,B569
+50,MALE,Thane,cough,none,19-Jul-2018,B570
+24,FEMALE,Mumbai,cold,hypertension,20-Jul-2018,B571
+7,MALE,Raigad,fever,hypotension,21-Jul-2018,B572
+15,FEMALE,Thane,cold,diabetes,22-Jul-2018,B573
+76,MALE,Mumbai,fever,none,23-Jul-2018,B574
+21,FEMALE,Raigad,cough,hypertension,24-Jul-2018,B575
+54,MALE,navi mumbai,cold,hypotension,25-Jul-2018,B576
+13,FEMALE,navi mumbai,fever,diabetes,26-Jul-2018,B577
+17,MALE,Thane,cold,none,27-Jul-2018,B578
+20,FEMALE,navi mumbai,fever,hypertension,28-Jul-2018,B579
+50,MALE,Thane,cough,hypotension,29-Jul-2018,B580
+24,FEMALE,Mumbai,cold,diabetes,30-Jul-2018,B581
+7,MALE,Raigad,fever,none,31-Jul-2018,B582
+15,FEMALE,Thane,cold,hypertension,1-Aug-2018,B583
+76,MALE,Mumbai,fever,hypotension,2-Aug-2018,B584
+21,FEMALE,Raigad,cough,diabetes,3-Aug-2018,B585
+54,MALE,navi mumbai,cold,none,4-Aug-2018,B586
+13,FEMALE,navi mumbai,fever,hypertension,5-Aug-2018,B587
+17,MALE,Thane,cold,hypotension,6-Aug-2018,B588
+20,FEMALE,Mumbai,fever,diabetes,7-Aug-2018,B589
+50,MALE,Raigad,cough,none,8-Aug-2018,B590
+24,FEMALE,Thane,cold,hypertension,9-Aug-2018,B591
+7,MALE,Mumbai,fever,hypotension,10-Aug-2018,B592
+15,FEMALE,Raigad,cold,diabetes,11-Aug-2018,B593
+76,MALE,navi mumbai,fever,none,12-Aug-2018,B594
+21,FEMALE,navi mumbai,cough,hypertension,13-Aug-2018,B595
+54,MALE,Thane,cold,hypotension,14-Aug-2018,B596
+13,FEMALE,Mumbai,fever,diabetes,15-Aug-2018,B597
+17,MALE,Raigad,cold,none,16-Aug-2018,B598
+20,FEMALE,Thane,fever,hypertension,17-Aug-2018,B599
+50,MALE,Mumbai,cough,hypotension,18-Aug-2018,B600
+24,FEMALE,Raigad,cold,diabetes,19-Aug-2018,B601
+7,MALE,navi mumbai,fever,none,20-Aug-2018,B602
+15,FEMALE,navi mumbai,cold,hypertension,21-Aug-2018,B603
+76,MALE,Thane,fever,hypotension,22-Aug-2018,B604
+21,FEMALE,navi mumbai,cough,diabetes,23-Aug-2018,B605
+54,MALE,Thane,cold,none,24-Aug-2018,B606
+13,FEMALE,Mumbai,fever,hypertension,25-Aug-2018,B607
+17,MALE,Raigad,cold,hypotension,26-Aug-2018,B608
+20,FEMALE,Thane,fever,diabetes,27-Aug-2018,B609
+50,MALE,Mumbai,cough,none,28-Aug-2018,B610
+24,FEMALE,Raigad,cold,hypertension,29-Aug-2018,B611
+7,MALE,navi mumbai,fever,hypotension,30-Aug-2018,B612
+15,FEMALE,navi mumbai,cold,diabetes,31-Aug-2018,B613
+76,MALE,Thane,fever,none,1-Sep-2018,B614
+21,FEMALE,Mumbai,cough,hypertension,2-Sep-2018,B615
+54,MALE,Raigad,cold,hypotension,3-Sep-2018,B616
+13,FEMALE,Thane,fever,diabetes,4-Sep-2018,B617
+17,MALE,Mumbai,cold,none,5-Sep-2018,B618
+20,FEMALE,Raigad,fever,hypertension,6-Sep-2018,B619
+50,MALE,navi mumbai,cough,hypotension,7-Sep-2018,B620
+24,FEMALE,navi mumbai,cold,diabetes,8-Sep-2018,B621
+7,MALE,Thane,fever,none,9-Sep-2018,B622
+15,FEMALE,Mumbai,cold,hypertension,10-Sep-2018,B623
+76,MALE,Raigad,fever,hypotension,11-Sep-2018,B624
+21,FEMALE,Thane,cough,diabetes,12-Sep-2018,B625
+54,MALE,Mumbai,cold,none,13-Sep-2018,B626
+13,FEMALE,Raigad,fever,hypertension,14-Sep-2018,B627
+17,MALE,navi mumbai,cold,hypotension,15-Sep-2018,B628
+20,FEMALE,navi mumbai,fever,diabetes,16-Sep-2018,B629
+50,MALE,Thane,cough,none,17-Sep-2018,B630
+24,FEMALE,navi mumbai,cold,hypertension,18-Sep-2018,B631
+7,MALE,Thane,fever,hypotension,19-Sep-2018,B632
+15,FEMALE,Mumbai,cold,diabetes,20-Sep-2018,B633
+76,MALE,Raigad,fever,none,21-Sep-2018,B634
+21,FEMALE,Thane,cough,hypertension,22-Sep-2018,B635
+54,MALE,Mumbai,cold,hypotension,23-Sep-2018,B636
+13,FEMALE,Raigad,fever,diabetes,24-Sep-2018,B637
+17,MALE,navi mumbai,cold,none,25-Sep-2018,B638
+20,FEMALE,navi mumbai,fever,hypertension,26-Sep-2018,B639
+50,MALE,Thane,cough,hypotension,27-Sep-2018,B640
+24,FEMALE,Mumbai,cold,diabetes,28-Sep-2018,B641
+7,MALE,Raigad,fever,none,29-Sep-2018,B642
+15,FEMALE,Thane,cold,hypertension,30-Sep-2018,B643
+76,MALE,Mumbai,fever,hypotension,1-Oct-2018,B644
+21,FEMALE,Raigad,cough,diabetes,2-Oct-2018,B645
+54,MALE,navi mumbai,cold,none,3-Oct-2018,B646
+13,FEMALE,navi mumbai,fever,hypertension,4-Oct-2018,B647
+17,MALE,Thane,cold,hypotension,5-Oct-2018,B648
+20,FEMALE,Mumbai,fever,diabetes,6-Oct-2018,B649
+50,MALE,Raigad,cough,none,7-Oct-2018,B650
+24,FEMALE,Thane,cold,hypertension,8-Oct-2018,B651
+7,MALE,Mumbai,fever,hypotension,9-Oct-2018,B652
+15,FEMALE,Raigad,cold,diabetes,10-Oct-2018,B653
+76,MALE,navi mumbai,fever,none,11-Oct-2018,B654
+21,FEMALE,navi mumbai,cough,hypertension,12-Oct-2018,B655
+54,MALE,Thane,cold,hypotension,13-Oct-2018,B656
+13,FEMALE,navi mumbai,fever,diabetes,14-Oct-2018,B657
+17,MALE,Thane,cold,none,15-Oct-2018,B658
+20,FEMALE,Mumbai,fever,hypertension,16-Oct-2018,B659
+50,MALE,Raigad,cough,hypotension,17-Oct-2018,B660
+24,FEMALE,Thane,cold,diabetes,18-Oct-2018,B661
+7,MALE,Mumbai,fever,none,19-Oct-2018,B662
+15,FEMALE,Raigad,cold,hypertension,20-Oct-2018,B663
+76,MALE,navi mumbai,fever,hypotension,21-Oct-2018,B664
+21,FEMALE,navi mumbai,cough,diabetes,22-Oct-2018,B665
+54,MALE,Thane,cold,none,23-Oct-2018,B666
+13,FEMALE,Mumbai,fever,hypertension,24-Oct-2018,B667
+17,MALE,Raigad,cold,hypotension,25-Oct-2018,B668
+20,FEMALE,Thane,fever,diabetes,26-Oct-2018,B669
+50,MALE,Mumbai,cough,none,27-Oct-2018,B670
+24,FEMALE,Raigad,cold,hypertension,28-Oct-2018,B671
+7,MALE,navi mumbai,fever,hypotension,29-Oct-2018,B672
+15,FEMALE,navi mumbai,cold,diabetes,30-Oct-2018,B673
+76,MALE,Thane,fever,none,31-Oct-2018,B674
+21,FEMALE,Mumbai,cough,hypertension,1-Nov-2018,B675
+54,MALE,Raigad,cold,hypotension,2-Nov-2018,B676
+13,FEMALE,Thane,fever,diabetes,3-Nov-2018,B677
+17,MALE,Mumbai,cold,none,4-Nov-2018,B678
+20,FEMALE,Raigad,fever,hypertension,5-Nov-2018,B679
+50,MALE,navi mumbai,cough,hypotension,6-Nov-2018,B680
+24,FEMALE,navi mumbai,cold,diabetes,7-Nov-2018,B681
+7,MALE,Thane,fever,none,8-Nov-2018,B682
+15,FEMALE,navi mumbai,cold,hypertension,9-Nov-2018,B683
+76,MALE,Thane,fever,hypotension,10-Nov-2018,B684
+21,FEMALE,Mumbai,cough,diabetes,11-Nov-2018,B685
+54,MALE,Raigad,cold,none,12-Nov-2018,B686
+13,FEMALE,Thane,fever,hypertension,13-Nov-2018,B687
+17,MALE,Mumbai,cold,hypotension,14-Nov-2018,B688
+20,FEMALE,Raigad,fever,diabetes,15-Nov-2018,B689
+50,MALE,navi mumbai,cough,none,16-Nov-2018,B690
+24,FEMALE,navi mumbai,cold,hypertension,17-Nov-2018,B691
+7,MALE,Thane,fever,hypotension,18-Nov-2018,B692
+15,FEMALE,Mumbai,cold,diabetes,19-Nov-2018,B693
+76,MALE,Raigad,fever,none,20-Nov-2018,B694
+21,FEMALE,Thane,cough,hypertension,21-Nov-2018,B695
+54,MALE,Mumbai,cold,hypotension,22-Nov-2018,B696
+13,FEMALE,Raigad,fever,diabetes,23-Nov-2018,B697
+17,MALE,navi mumbai,cold,none,24-Nov-2018,B698
+20,FEMALE,navi mumbai,fever,hypertension,25-Nov-2018,B699
+50,MALE,Thane,cough,hypotension,26-Nov-2018,B700
+24,FEMALE,Mumbai,cold,diabetes,27-Nov-2018,B701
+7,MALE,Raigad,fever,none,28-Nov-2018,B702
+15,FEMALE,Thane,cold,hypertension,29-Nov-2018,B703
+76,MALE,Mumbai,fever,hypotension,30-Nov-2018,B704
+21,FEMALE,Raigad,cough,diabetes,1-Dec-2018,B705
+54,MALE,navi mumbai,cold,none,2-Dec-2018,B706
+13,FEMALE,navi mumbai,fever,hypertension,3-Dec-2018,B707
+17,MALE,Thane,cold,hypotension,4-Dec-2018,B708
+20,FEMALE,navi mumbai,fever,diabetes,5-Dec-2018,B709
+50,MALE,Thane,cough,none,6-Dec-2018,B710
+24,FEMALE,Mumbai,cold,hypertension,7-Dec-2018,B711
+7,MALE,Raigad,fever,hypotension,8-Dec-2018,B712
+15,FEMALE,Thane,cold,diabetes,9-Dec-2018,B713
+76,MALE,Mumbai,fever,none,10-Dec-2018,B714
+21,FEMALE,Raigad,cough,hypertension,11-Dec-2018,B715
+54,MALE,navi mumbai,cold,hypotension,12-Dec-2018,B716
+13,FEMALE,navi mumbai,fever,diabetes,13-Dec-2018,B717
+17,MALE,Thane,cold,none,14-Dec-2018,B718
+20,FEMALE,Mumbai,fever,hypertension,15-Dec-2018,B719
+50,MALE,Raigad,cough,hypotension,16-Dec-2018,B720
+24,FEMALE,Thane,cold,diabetes,17-Dec-2018,B721
+7,MALE,Mumbai,fever,none,18-Dec-2018,B722
+15,FEMALE,Raigad,cold,hypertension,19-Dec-2018,B723
+76,MALE,navi mumbai,fever,hypotension,20-Dec-2018,B724
+21,FEMALE,navi mumbai,cough,diabetes,21-Dec-2018,B725
+54,MALE,Thane,cold,none,22-Dec-2018,B726
+13,FEMALE,Mumbai,fever,hypertension,23-Dec-2018,B727
+17,MALE,Raigad,cold,hypotension,24-Dec-2018,B728
+20,FEMALE,Thane,fever,diabetes,25-Dec-2018,B729
+50,MALE,Mumbai,cough,none,26-Dec-2018,B730
+24,FEMALE,Raigad,cold,hypertension,27-Dec-2018,B731
+7,MALE,navi mumbai,fever,hypotension,28-Dec-2018,B732
+15,FEMALE,navi mumbai,cold,diabetes,29-Dec-2018,B733
+76,MALE,Thane,fever,none,30-Dec-2018,B734
+21,FEMALE,navi mumbai,cough,hypertension,31-Dec-2018,B735
+54,MALE,Thane,cold,hypotension,1-Jan-2019,B736
+13,FEMALE,Mumbai,fever,diabetes,2-Jan-2019,B737
+17,MALE,Raigad,cold,none,3-Jan-2019,B738
+20,FEMALE,Thane,fever,hypertension,4-Jan-2019,B739
+50,MALE,Mumbai,cough,hypotension,5-Jan-2019,B740
+24,FEMALE,Raigad,cold,diabetes,6-Jan-2019,B741
+7,MALE,navi mumbai,fever,none,7-Jan-2019,B742
+15,FEMALE,navi mumbai,cold,hypertension,8-Jan-2019,B743
+76,MALE,Thane,fever,hypotension,9-Jan-2019,B744
+21,FEMALE,Mumbai,cough,diabetes,10-Jan-2019,B745
+54,MALE,Raigad,cold,none,11-Jan-2019,B746
+13,FEMALE,Thane,fever,hypertension,12-Jan-2019,B747
+17,MALE,Mumbai,cold,hypotension,13-Jan-2019,B748
+20,FEMALE,Raigad,fever,diabetes,14-Jan-2019,B749
+50,MALE,navi mumbai,cough,none,15-Jan-2019,B750
+24,FEMALE,navi mumbai,cold,hypertension,16-Jan-2019,B751
+7,MALE,Thane,fever,hypotension,17-Jan-2019,B752
+15,FEMALE,Mumbai,cold,diabetes,18-Jan-2019,B753
+76,MALE,Raigad,fever,none,19-Jan-2019,B754
+21,FEMALE,Thane,cough,hypertension,20-Jan-2019,B755
+54,MALE,Mumbai,cold,hypotension,21-Jan-2019,B756
+13,FEMALE,Raigad,fever,diabetes,22-Jan-2019,B757
+17,MALE,navi mumbai,cold,none,23-Jan-2019,B758
+20,FEMALE,navi mumbai,fever,hypertension,24-Jan-2019,B759
+50,MALE,Thane,cough,hypotension,25-Jan-2019,B760
+24,FEMALE,navi mumbai,cold,diabetes,26-Jan-2019,B761
+7,MALE,Thane,fever,none,27-Jan-2019,B762
+15,FEMALE,Mumbai,cold,hypertension,28-Jan-2019,B763
+76,MALE,Raigad,fever,hypotension,29-Jan-2019,B764
+21,FEMALE,Thane,cough,diabetes,30-Jan-2019,B765
+54,MALE,Mumbai,cold,none,31-Jan-2019,B766
+13,FEMALE,Raigad,fever,hypertension,1-Feb-2019,B767
+17,MALE,navi mumbai,cold,hypotension,2-Feb-2019,B768
+20,FEMALE,navi mumbai,fever,diabetes,3-Feb-2019,B769
+50,MALE,Thane,cough,none,4-Feb-2019,B770
+24,FEMALE,Mumbai,cold,hypertension,5-Feb-2019,B771
+7,MALE,Raigad,fever,hypotension,6-Feb-2019,B772
+15,FEMALE,Thane,cold,diabetes,7-Feb-2019,B773
+76,MALE,Mumbai,fever,none,8-Feb-2019,B774
+21,FEMALE,Raigad,cough,hypertension,9-Feb-2019,B775
+54,MALE,navi mumbai,cold,hypotension,10-Feb-2019,B776
+13,FEMALE,navi mumbai,fever,diabetes,11-Feb-2019,B777
+17,MALE,Thane,cold,none,12-Feb-2019,B778
+20,FEMALE,Mumbai,fever,hypertension,13-Feb-2019,B779
+50,MALE,Raigad,cough,hypotension,14-Feb-2019,B780
+24,FEMALE,Thane,cold,diabetes,15-Feb-2019,B781
+7,MALE,Mumbai,fever,none,16-Feb-2019,B782
+15,FEMALE,Raigad,cold,hypertension,17-Feb-2019,B783
+76,MALE,navi mumbai,fever,hypotension,18-Feb-2019,B784
+21,FEMALE,navi mumbai,cough,diabetes,19-Feb-2019,B785
+54,MALE,Thane,cold,none,20-Feb-2019,B786
+13,FEMALE,navi mumbai,fever,hypertension,21-Feb-2019,B787
+17,MALE,Thane,cold,hypotension,22-Feb-2019,B788
+20,FEMALE,Mumbai,fever,diabetes,23-Feb-2019,B789
+50,MALE,Raigad,cough,none,24-Feb-2019,B790
+24,FEMALE,Thane,cold,hypertension,25-Feb-2019,B791
+7,MALE,Mumbai,fever,hypotension,26-Feb-2019,B792
+15,FEMALE,Raigad,cold,diabetes,27-Feb-2019,B793
+76,MALE,navi mumbai,fever,none,28-Feb-2019,B794
+21,FEMALE,navi mumbai,cough,hypertension,1-Mar-2019,B795
+54,MALE,Thane,cold,hypotension,2-Mar-2019,B796
+13,FEMALE,Mumbai,fever,diabetes,3-Mar-2019,B797
+17,MALE,Raigad,cold,none,4-Mar-2019,B798
+20,FEMALE,Thane,fever,hypertension,5-Mar-2019,B799
+50,MALE,Mumbai,cough,hypotension,6-Mar-2019,B800
+24,FEMALE,Raigad,cold,diabetes,7-Mar-2019,B801
+7,MALE,navi mumbai,fever,none,8-Mar-2019,B802
+15,FEMALE,navi mumbai,cold,hypertension,9-Mar-2019,B803
+76,MALE,Thane,fever,hypotension,10-Mar-2019,B804
+21,FEMALE,Mumbai,cough,diabetes,11-Mar-2019,B805
+54,MALE,Raigad,cold,none,12-Mar-2019,B806
+13,FEMALE,Thane,fever,hypertension,13-Mar-2019,B807
+17,MALE,Mumbai,cold,hypotension,14-Mar-2019,B808
+20,FEMALE,Raigad,fever,diabetes,15-Mar-2019,B809
+50,MALE,navi mumbai,cough,none,16-Mar-2019,B810
+24,FEMALE,navi mumbai,cold,hypertension,17-Mar-2019,B811
+7,MALE,Thane,fever,hypotension,18-Mar-2019,B812
+15,FEMALE,navi mumbai,cold,diabetes,19-Mar-2019,B813
+76,MALE,Thane,fever,none,20-Mar-2019,B814
+21,FEMALE,Mumbai,cough,hypertension,21-Mar-2019,B815
+54,MALE,Raigad,cold,hypotension,22-Mar-2019,B816
+13,FEMALE,Thane,fever,diabetes,23-Mar-2019,B817
+17,MALE,Mumbai,cold,none,24-Mar-2019,B818
+20,FEMALE,Raigad,fever,hypertension,25-Mar-2019,B819
+50,MALE,navi mumbai,cough,hypotension,26-Mar-2019,B820
+24,FEMALE,navi mumbai,cold,diabetes,27-Mar-2019,B821
+7,MALE,Thane,fever,none,28-Mar-2019,B822
+15,FEMALE,Mumbai,cold,hypertension,29-Mar-2019,B823
+76,MALE,Raigad,fever,hypotension,30-Mar-2019,B824
+21,FEMALE,Thane,cough,diabetes,31-Mar-2019,B825
+54,MALE,Mumbai,cold,none,1-Apr-2019,B826
+13,FEMALE,Raigad,fever,hypertension,2-Apr-2019,B827
+17,MALE,navi mumbai,cold,hypotension,3-Apr-2019,B828
+20,FEMALE,navi mumbai,fever,diabetes,4-Apr-2019,B829
+50,MALE,Thane,cough,none,5-Apr-2019,B830
+24,FEMALE,Mumbai,cold,hypertension,6-Apr-2019,B831
+7,MALE,Raigad,fever,hypotension,7-Apr-2019,B832
+15,FEMALE,Thane,cold,diabetes,8-Apr-2019,B833
+76,MALE,Mumbai,fever,none,9-Apr-2019,B834
+21,FEMALE,Raigad,cough,hypertension,10-Apr-2019,B835
+54,MALE,navi mumbai,cold,hypotension,11-Apr-2019,B836
+13,FEMALE,navi mumbai,fever,diabetes,12-Apr-2019,B837
+17,MALE,Thane,cold,none,13-Apr-2019,B838
+20,FEMALE,navi mumbai,fever,hypertension,14-Apr-2019,B839
+50,MALE,Thane,cough,hypotension,15-Apr-2019,B840
+24,FEMALE,Mumbai,cold,diabetes,16-Apr-2019,B841
+7,MALE,Raigad,fever,none,17-Apr-2019,B842
+15,FEMALE,Thane,cold,hypertension,18-Apr-2019,B843
+76,MALE,Mumbai,fever,hypotension,19-Apr-2019,B844
+21,FEMALE,Raigad,cough,diabetes,20-Apr-2019,B845
+54,MALE,navi mumbai,cold,none,21-Apr-2019,B846
+13,FEMALE,navi mumbai,fever,hypertension,22-Apr-2019,B847
+17,MALE,Thane,cold,hypotension,23-Apr-2019,B848
+20,FEMALE,Mumbai,fever,diabetes,24-Apr-2019,B849
+50,MALE,Raigad,cough,none,25-Apr-2019,B850
+24,FEMALE,Thane,cold,hypertension,26-Apr-2019,B851
+7,MALE,Mumbai,fever,hypotension,27-Apr-2019,B852
+15,FEMALE,Raigad,cold,diabetes,28-Apr-2019,B853
+76,MALE,navi mumbai,fever,none,29-Apr-2019,B854
+21,FEMALE,navi mumbai,cough,hypertension,30-Apr-2019,B855
+54,MALE,Thane,cold,hypotension,1-May-2019,B856
+13,FEMALE,Mumbai,fever,diabetes,2-May-2019,B857
+17,MALE,Raigad,cold,none,3-May-2019,B858
+20,FEMALE,Thane,fever,hypertension,4-May-2019,B859
+50,MALE,Mumbai,cough,hypotension,5-May-2019,B860
+24,FEMALE,Raigad,cold,diabetes,6-May-2019,B861
+7,MALE,navi mumbai,fever,none,7-May-2019,B862
+15,FEMALE,navi mumbai,cold,hypertension,8-May-2019,B863
+76,MALE,Thane,fever,hypotension,9-May-2019,B864
+21,FEMALE,navi mumbai,cough,diabetes,10-May-2019,B865
+54,MALE,Thane,cold,none,11-May-2019,B866
+13,FEMALE,Mumbai,fever,hypertension,12-May-2019,B867
+17,MALE,Raigad,cold,hypotension,13-May-2019,B868
+20,FEMALE,Thane,fever,diabetes,14-May-2019,B869
+50,MALE,Mumbai,cough,none,15-May-2019,B870
+24,FEMALE,Raigad,cold,hypertension,16-May-2019,B871
+7,MALE,navi mumbai,fever,hypotension,17-May-2019,B872
+15,FEMALE,navi mumbai,cold,diabetes,18-May-2019,B873
+76,MALE,Thane,fever,none,19-May-2019,B874
+21,FEMALE,Mumbai,cough,hypertension,20-May-2019,B875
+54,MALE,Raigad,cold,hypotension,21-May-2019,B876
+13,FEMALE,Thane,fever,diabetes,22-May-2019,B877
+17,MALE,Mumbai,cold,none,23-May-2019,B878
+20,FEMALE,Raigad,fever,hypertension,24-May-2019,B879
+50,MALE,navi mumbai,cough,hypotension,25-May-2019,B880
+24,FEMALE,navi mumbai,cold,diabetes,26-May-2019,B881
+7,MALE,Thane,fever,none,27-May-2019,B882
+15,FEMALE,Mumbai,cold,hypertension,28-May-2019,B883
+76,MALE,Raigad,fever,hypotension,29-May-2019,B884
+21,FEMALE,Thane,cough,diabetes,30-May-2019,B885
+54,MALE,Mumbai,cold,none,31-May-2019,B886
+13,FEMALE,Raigad,fever,hypertension,1-Jun-2019,B887
+17,MALE,navi mumbai,cold,hypotension,2-Jun-2019,B888
+20,FEMALE,navi mumbai,fever,diabetes,3-Jun-2019,B889
+50,MALE,Thane,cough,none,4-Jun-2019,B890
+24,FEMALE,navi mumbai,cold,hypertension,5-Jun-2019,B891
+7,MALE,Thane,fever,hypotension,6-Jun-2019,B892
+15,FEMALE,Mumbai,cold,diabetes,7-Jun-2019,B893
+76,MALE,Raigad,fever,none,8-Jun-2019,B894
+21,FEMALE,Thane,cough,hypertension,9-Jun-2019,B895
+54,MALE,Mumbai,cold,hypotension,10-Jun-2019,B896
+13,FEMALE,Raigad,fever,diabetes,11-Jun-2019,B897
+17,MALE,navi mumbai,cold,none,12-Jun-2019,B898
+20,FEMALE,navi mumbai,fever,hypertension,13-Jun-2019,B899
+50,MALE,Thane,cough,hypotension,14-Jun-2019,B900
+24,FEMALE,Mumbai,cold,diabetes,15-Jun-2019,B901
+7,MALE,Raigad,fever,none,16-Jun-2019,B902
+15,FEMALE,Thane,cold,hypertension,17-Jun-2019,B903
+76,MALE,Mumbai,fever,hypotension,18-Jun-2019,B904
+21,FEMALE,Raigad,cough,diabetes,19-Jun-2019,B905
+54,MALE,navi mumbai,cold,none,20-Jun-2019,B906
+13,FEMALE,navi mumbai,fever,hypertension,21-Jun-2019,B907
+17,MALE,Thane,cold,hypotension,22-Jun-2019,B908
+20,FEMALE,Mumbai,fever,diabetes,23-Jun-2019,B909
+50,MALE,Raigad,cough,none,24-Jun-2019,B910
+24,FEMALE,Thane,cold,hypertension,25-Jun-2019,B911
+7,MALE,Mumbai,fever,hypotension,26-Jun-2019,B912
+15,FEMALE,Raigad,cold,diabetes,27-Jun-2019,B913
+76,MALE,navi mumbai,fever,none,28-Jun-2019,B914
+21,FEMALE,navi mumbai,cough,hypertension,29-Jun-2019,B915
+54,MALE,Thane,cold,hypotension,30-Jun-2019,B916
+13,FEMALE,navi mumbai,fever,diabetes,1-Jul-2019,B917
+17,MALE,Thane,cold,none,2-Jul-2019,B918
+20,FEMALE,Mumbai,fever,hypertension,3-Jul-2019,B919
+50,MALE,Raigad,cough,hypotension,4-Jul-2019,B920
+24,FEMALE,Thane,cold,diabetes,5-Jul-2019,B921
+7,MALE,Mumbai,fever,none,6-Jul-2019,B922
+15,FEMALE,Raigad,cold,hypertension,7-Jul-2019,B923
+76,MALE,navi mumbai,fever,hypotension,8-Jul-2019,B924
+21,FEMALE,navi mumbai,cough,diabetes,9-Jul-2019,B925
+54,MALE,Thane,cold,none,10-Jul-2019,B926
+13,FEMALE,Mumbai,fever,hypertension,11-Jul-2019,B927
+17,MALE,Raigad,cold,hypotension,12-Jul-2019,B928
+20,FEMALE,Thane,fever,diabetes,13-Jul-2019,B929
+50,MALE,Mumbai,cough,none,14-Jul-2019,B930
+24,FEMALE,Raigad,cold,hypertension,15-Jul-2019,B931
+7,MALE,navi mumbai,fever,hypotension,16-Jul-2019,B932
+15,FEMALE,navi mumbai,cold,diabetes,17-Jul-2019,B933
+76,MALE,Thane,fever,none,18-Jul-2019,B934
+21,FEMALE,Mumbai,cough,hypertension,19-Jul-2019,B935
+54,MALE,Raigad,cold,hypotension,20-Jul-2019,B936
+13,FEMALE,Thane,fever,diabetes,21-Jul-2019,B937
+17,MALE,Mumbai,cold,none,22-Jul-2019,B938
+20,FEMALE,Raigad,fever,hypertension,23-Jul-2019,B939
+50,MALE,navi mumbai,cough,hypotension,24-Jul-2019,B940
+24,FEMALE,navi mumbai,cold,diabetes,25-Jul-2019,B941
+7,MALE,Thane,fever,none,26-Jul-2019,B942
+15,FEMALE,navi mumbai,cold,hypertension,27-Jul-2019,B943
+76,MALE,Thane,fever,hypotension,28-Jul-2019,B944
+21,FEMALE,Mumbai,cough,diabetes,29-Jul-2019,B945
+54,MALE,Raigad,cold,none,30-Jul-2019,B946
+13,FEMALE,Thane,fever,hypertension,31-Jul-2019,B947
+17,MALE,Mumbai,cold,hypotension,1-Aug-2019,B948
+20,FEMALE,Raigad,fever,diabetes,2-Aug-2019,B949
+50,MALE,navi mumbai,cough,none,3-Aug-2019,B950
+24,FEMALE,navi mumbai,cold,hypertension,4-Aug-2019,B951
+7,MALE,Thane,fever,hypotension,5-Aug-2019,B952
+15,FEMALE,Mumbai,cold,diabetes,6-Aug-2019,B953
+76,MALE,Raigad,fever,none,7-Aug-2019,B954
+21,FEMALE,Thane,cough,hypertension,8-Aug-2019,B955
+54,MALE,Mumbai,cold,hypotension,9-Aug-2019,B956
+13,FEMALE,Raigad,fever,diabetes,10-Aug-2019,B957
+17,MALE,navi mumbai,cold,none,11-Aug-2019,B958
+20,FEMALE,navi mumbai,fever,hypertension,12-Aug-2019,B959
+50,MALE,Thane,cough,hypotension,13-Aug-2019,B960
+24,FEMALE,Mumbai,cold,diabetes,14-Aug-2019,B961
+7,MALE,Raigad,fever,none,15-Aug-2019,B962
+15,FEMALE,Thane,cold,hypertension,16-Aug-2019,B963
+76,MALE,Mumbai,fever,hypotension,17-Aug-2019,B964
+21,FEMALE,Raigad,cough,diabetes,18-Aug-2019,B965
+54,MALE,navi mumbai,cold,none,19-Aug-2019,B966
+13,FEMALE,navi mumbai,fever,hypertension,20-Aug-2019,B967
+17,MALE,Thane,cold,hypotension,21-Aug-2019,B968
+20,FEMALE,navi mumbai,fever,diabetes,22-Aug-2019,B969
+50,MALE,Thane,cough,none,23-Aug-2019,B970
+24,FEMALE,Mumbai,cold,hypertension,24-Aug-2019,B971
+7,MALE,Raigad,fever,hypotension,25-Aug-2019,B972
+15,FEMALE,Thane,cold,diabetes,26-Aug-2019,B973
+76,MALE,Mumbai,fever,none,27-Aug-2019,B974
+21,FEMALE,Raigad,cough,hypertension,28-Aug-2019,B975
+54,MALE,navi mumbai,cold,hypotension,29-Aug-2019,B976
+13,FEMALE,navi mumbai,fever,diabetes,30-Aug-2019,B977
+17,MALE,Thane,cold,none,31-Aug-2019,B978
+20,FEMALE,Mumbai,fever,hypertension,1-Sep-2019,B979
+50,MALE,Raigad,cough,hypotension,2-Sep-2019,B980
+24,FEMALE,Thane,cold,diabetes,3-Sep-2019,B981
+7,MALE,Mumbai,fever,none,4-Sep-2019,B982
+15,FEMALE,Raigad,cold,hypertension,5-Sep-2019,B983
+76,MALE,navi mumbai,fever,hypotension,6-Sep-2019,B984
+21,FEMALE,navi mumbai,cough,diabetes,7-Sep-2019,B985
+54,MALE,Thane,cold,none,8-Sep-2019,B986
+13,FEMALE,Mumbai,fever,hypertension,9-Sep-2019,B987
+17,MALE,Raigad,cold,hypotension,10-Sep-2019,B988
+20,FEMALE,Thane,fever,diabetes,11-Sep-2019,B989
+50,MALE,Mumbai,cough,none,12-Sep-2019,B990
+24,FEMALE,Raigad,cold,hypertension,13-Sep-2019,B991
+7,MALE,navi mumbai,fever,hypotension,14-Sep-2019,B992
+15,FEMALE,navi mumbai,cold,diabetes,15-Sep-2019,B993
+76,MALE,Thane,fever,none,16-Sep-2019,B994
+21,FEMALE,navi mumbai,cough,hypertension,17-Sep-2019,B995
+54,MALE,Thane,cold,hypotension,18-Sep-2019,B996
+13,FEMALE,Mumbai,fever,diabetes,19-Sep-2019,B997
+17,MALE,Raigad,cold,none,20-Sep-2019,B998
+20,FEMALE,Thane,fever,hypertension,21-Sep-2019,B999
+50,MALE,Mumbai,cough,hypotension,22-Sep-2019,B1000
